@@ -2,7 +2,7 @@
 
 <div>Some page content</div>
 
-<style>
+<style lang="postcss">
 	@keyframes {
 	}
 </style>
